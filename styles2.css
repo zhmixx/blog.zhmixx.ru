@@ -69,6 +69,8 @@ h1 {
     font-size: 1.8rem;
     color: var(--text);
     user-select: none;
+    text-justify: center;
+    text-align: center;
 }
 
 .theme-switch-wrapper {
