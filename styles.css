@@ -166,3 +166,7 @@ footer {
     opacity: 0.7;
     user-select: none;
 }
+
+image {
+    border-radius: 5px;
+}
